@@ -16,7 +16,7 @@ Check out my Telegram channel about it tips, tricks, techologies [@IThard](https
 
 
 **Contacts**  
-<a href="https://t.me/frozrt">
+<a href="https://t.me/swfuse">
   <img alt="My Telegram" src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
 
